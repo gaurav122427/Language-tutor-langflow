@@ -1,0 +1,5 @@
+langflow
+gradio
+transformers
+torch
+python-dotenv
